@@ -1,16 +1,66 @@
-## Hi there 👋
+# Adouko Dieudonné Samuel Ebenezer
 
-<!--
-**samdev2006/samdev2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Web & Mobile.  
+Je conçois des applications modernes, utiles et orientées utilisateurs avec React, Java/Spring Boot etc...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Compétences techniques
+
+Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5 / CSS3 / Tailwind CSS
+- Responsive Design
+
+Backend
+- Java / Spring Boot
+- PHP
+- Firebase (Auth, Firestore)
+- API REST
+
+Base de données
+- MySQL
+- PostgreSQL
+- Firestore
+- Modélisation MERISE
+
+Outils
+- Git / GitHub
+- VS Code
+- Postman
+
+
+## Projets principaux
+
+MyEEBD Event  ( en cours de dévéloppement)
+Application web de gestion d’événements pour une église  
+- Inscription aux événements
+- Gestion des participants
+- Authentification Firebase
+- React + Firebase
+
+
+Applications académiques  
+- API REST avec Spring Boot
+- Bases de données SQL
+
+## Ce qui m’intéresse
+
+- Développement Full Stack
+- Applications web modernes
+- Architecture logicielle propre
+- Projets à impact social et communautaire
+
+## Actuellement
+
+- Amélioration de mes compétences React,Spring Boot et PHP -> LARAVEL
+- Développement de projets personnels
+- Apprentissage de LARAVEL
+- Préparation à une insertion professionnelle
+
+## Contact
+
+Email : samueladouko23@gmail.com  
+LinkedIn : https://www.linkedin.com/in/samuel-adouko-07a9a2326/ 
+GitHub : https://github.com/samdev2006/
+Téléphone : +225 01 51 035 263
